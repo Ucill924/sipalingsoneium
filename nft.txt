@@ -1,0 +1,5 @@
+nft contract  : (Soneium Venari Container)
+0x702241c23f1add928C286E65b9e4ADC993481702
+
+royaltiees / fee: 
+0x0000a26b00c1F0DF003000390027140000fAa719
